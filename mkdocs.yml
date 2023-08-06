@@ -1,6 +1,6 @@
 site_name: Nicheployment # Change this to your site name
 site_description: Just testing plz ignore
-site_url: https://clandowski.github.io/-GitPublishTestMkDoc3/ # Change this to your site URL
+site_url: https://change_me.io/ # Change this to your site URL
 
 theme:
     name: 'material'
