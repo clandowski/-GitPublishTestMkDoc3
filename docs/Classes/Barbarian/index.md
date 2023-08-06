@@ -39,7 +39,7 @@ Skill Ranks Per Level: `= this.Skills` + Int modifier
 
 <label class="ob-comment" title="" style=""> ## Class Features <input type="checkbox"> <span style=""> They are shit. Shiiit. </span></label>
 
-The following are class features of the barbarian. 
+The following are class features of the barbarian.  
 
 #### Weapon and Armor Proficiency
 
