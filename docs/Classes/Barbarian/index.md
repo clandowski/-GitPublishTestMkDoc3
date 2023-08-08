@@ -9,7 +9,7 @@ BDE: .5
 share: true
 ---
 
-## Class Details 
+# Class Details 
 Hit Die:  d12
 Type: Martial
 Skill Ranks Per Level: 2 + Int modifier
