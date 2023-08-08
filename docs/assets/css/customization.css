@@ -23,6 +23,10 @@ DONT FORGET TO EDIT THE URL
     mask-image: var(--md-admonition-icon--grid);
 }
 
+.md-grid {
+    max-width: 101rem;
+}
+
 .admonition.wiki {
     float: left;
     margin-right: 0.8rem;
