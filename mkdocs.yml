@@ -4,8 +4,8 @@ site_url: https://change_me.io/ # Change this to your site URL
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/Nd20small.png
+    favicon: assets/meta/Nd20small.png
     custom_dir: overrides
     font:
         text: Ubuntu
