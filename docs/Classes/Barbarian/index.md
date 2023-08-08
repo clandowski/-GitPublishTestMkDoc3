@@ -47,7 +47,7 @@ Testing stupid
 
 
 
-<label class="ob-comment" title="" style=""> ## Class Features <input type="checkbox"> <span style=""> They are shit. Shiiit. </span></label>
+## Class Features
 
 The following are class features of the barbarian. 
 
