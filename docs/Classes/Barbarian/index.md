@@ -6,6 +6,7 @@ Type: 'Martial'
 Skills: 2
 BAB: 1
 BDE: .5
+title: 'Bardarian'
 share: true
 ---
 
