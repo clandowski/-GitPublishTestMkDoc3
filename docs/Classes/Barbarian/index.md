@@ -11,7 +11,7 @@ share: true
 ---
 
 [[Bladebinder#Combat Stance (Ex)]]
-[Yolo](Bladebinder#Combat+Stance+(Ex))
+[Yolo](Bladebinder#Combat-Stance-(Ex))
 # Class Details  
 Hit Die:  d12
 Type: Martial
