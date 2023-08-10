@@ -48,7 +48,7 @@ A blade binder is proficient with all simple weapons and armor. If this is the c
 #### [Stamina](https://niched20.miraheze.org/wiki/Martial_Classes "Martial Classes") (Ex)
 
 At 1st level, a blade binder gains access to a pool of stamina points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus his levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
-
+asdfasdf
 #### Combat Stance (Ex)
 
 If this is the character’s first level in a martial class, the blade binder gains his choice of Power Stance, Whirlwind Stance, or Skirmisher Stance as a bonus feat.
