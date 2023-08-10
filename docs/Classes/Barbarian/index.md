@@ -9,13 +9,13 @@ BAB: 1
 BDE: .5
 share: true
 ---
-
-[[Bladebinder#Combat Stance (Ex)|WombatStance]]
-[[Bladebinder#Summon Weapon|SummonWeaponLol]]
+   
+[WombatStance](Bladebinder.md#Combat%20Stance%20(Ex))
+[SummonWeaponLol](Bladebinder.md#Summon%20Weapon)
 [Yolo](Bladebinder#combat-stance-ex)
 asdfasdf
-[[Bladebinder#Summon Weapon]]
-[[Bladebinder#Summon Weapon|SummonWeaponLol]]
+[Bladebinder#Summon Weapon](Bladebinder.md#Summon%20Weapon)
+[SummonWeaponLol](Bladebinder.md#Summon%20Weapon)
 # Class Details  
 Hit Die:  d12
 Type: Martial
@@ -220,4 +220,4 @@ At 20th level, the barbarian becomes nearly unkillable. The barbarian gains DR 5
 
 
 ## Table - Savageries:
-![[Savageries]]
+![Savageries](Savageries.md)
