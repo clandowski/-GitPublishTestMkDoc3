@@ -1,54 +1,72 @@
 ---
+title: 'Bardarian'
 tags: ['Class', 'Barbarian']
 PageType: 'Class'
-HitDie: 'd12'
+HitDie: d12
 Type: 'Martial'
 Skills: 2
 BAB: 1
 BDE: .5
-title: 'Bardarian'
 share: true
 ---
 
-# Class Details 
+[[Bladebinder#Combat Stance (Ex)]]
+[Yolo](Bladebinder#Combat+Stance+(Ex))
+# Class Details  
 Hit Die:  d12
 Type: Martial
 Skill Ranks Per Level: 2 + Int modifier
 
-| Level | Base Attack Bonus | Base Defense Bonus | Special                                                |
-| ----- | ----------------- | ------------------ | ------------------------------------------------------ |
-| 1     | +1                | +0                 | Powerful Strikes, Rage(+1), Stamina, Barbaric Vitality |
-| 2     | +2                | +1                 | Barbaric Path                                          |
-| 3     | +3                | +1                 | Aggression, Fury                                       |
-| 4     | +4                | +2                 | Barbaric Path                                          |
-| 5     | +5                | +2                 | Barbaric Bond, Rage(+2)                                |
-| 6     | +6/+1             | +3                 | Barbaric Path                                          |
-| 7     | +7/+2             | +3                 | Aggression, Vigor (1)                                  |
-| 8     | +8/+3             | +4                 | Barbaric Path                                          |
-| 9     | +9/+4             | +4                 | Savagery                                               |
-| 10    | +10/+5            | +5                 | Barbaric Path, Rage(+3)                                |
-| 11    | +11/+6/+1         | +5                 | Aggression                                             |
-| 12    | +12/+7/+2         | +6                 | Barbaric Path, Vigor (2)                               |
-| 13    | +13/+8/+3         | +6                 | Savagery                                               |
-| 14    | +14/+9/+4         | +7                 | Barbaric Path                                          |
-| 15    | +15/+10/+5        | +7                 | Aggression, Rage(+4)                                   |
-| 16    | +16/+11/+6/+1     | +8                 | Barbaric Path                                          |
-| 17    | +17/+12/+7/+2     | +8                 | Savagery, Vigor (3)                                    |
-| 18    | +18/+13/+8/+3     | +9                 | Barbaric Path                                          |
-| 19    | +19/+14/+9/+4     | +9                 | Aggression                                             |
-| 20   | +20/+15/+10/+5     | +10                | Barbaric Path, Rage(+5), Unstoppable                   |
+|  Level  |  Base Attack Bonus   |  Base Defense Bonus  |  Special                                                 |
+|:--------|:---------------------|:---------------------|:---------------------------------------------------------|
+|  1      |   +1                 |  +0                  |  Powerful Strikes, Rage(+1), Stamina, Barbaric Vitality  |
+|  2      |   +2                 |  +1                  |  Barbaric Path                                           |
+|  3      |   +3                 |  +1                  |  Aggression, Fury                                        |
+|  4      |   +4                 |  +2                  |  Barbaric Path                                           |
+|  5      |   +5                 |  +2                  |  Barbaric Bond, Rage(+2)                                 |
+|  6      |   +6/+1              |  +3                  |  Barbaric Path                                           |
+|  7      |   +7/+2              |  +3                  |  Aggression, Vigor (1)                                   |
+|  8      |   +8/+3              |  +4                  |  Barbaric Path                                           |
+|  9      |   +9/+4              |  +4                  |  Savagery                                                |
+|  10     |   +10/+5             |  +5                  |  Barbaric Path, Rage(+3)                                 |
+|  11     |   +11/+6/+1          |  +5                  |  Aggression                                              |
+|  12     |   +12/+7/+2          |  +6                  |  Barbaric Path, Vigor (2)                                |
+|  13     |   +13/+8/+3          |  +6                  |  Savagery                                                |
+|  14     |   +14/+9/+4          |  +7                  |  Barbaric Path                                           |
+|  15     |   +15/+10/+5         |  +7                  |  Aggression, Rage(+4)                                    |
+|  16     |   +16/+11/+6/+1      |  +8                  |  Barbaric Path                                           |
+|  17     |   +17/+12/+7/+2      |  +8                  |  Savagery, Vigor (3)                                     |
+|  18     |   +18/+13/+8/+3      |  +9                  |  Barbaric Path                                           |
+|  19     |   +19/+14/+9/+4      |  +9                  |  Aggression                                              |
+|   20    |  +20/+15/+10/+5      |  +10                 |  Barbaric Path, Rage(+5), Unstoppable                    |  
 
 
 
-Testing stupid
-- Weapon and Armor Proficiency<br><br>A barbarian is proficient with all simple weapons and armor. If this is the character’s first level in a class he gains proficiency in all martial weapons and light martial armor.<br><br>
-- Stamina<br><br>At 1st level, a barbarian gains access to a pool of stamina points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Constitution modifier plus levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.<br><br>
-- Barbaric Path<br><br>While a barbarian may not have a graceful approach to problems, a barbarian still grows as a combatant as he gains levels, learning additional tricks and techniques. Starting at 2nd level and every two barbarian levels thereafter, a barbarian gains a barbaric path.<br><br>
-
-
-
+| name | tags           | Level     |
+|:-----|:---------------|:----------|
+|    1 | ['LevelTable'] |   1       |
+|    2 | ['LevelTable'] |   2       |
+|    3 | ['LevelTable'] |   3       |
+|    4 | ['LevelTable'] |   4       |
+|    5 | ['LevelTable'] |   5       |
+|    6 | ['LevelTable'] |   6       |
+|    7 | ['LevelTable'] |   7       |
+|    8 | ['LevelTable'] |   8       |
+|    9 | ['LevelTable'] |   9       |
+|   10 | ['LevelTable'] |   10      |
+|   11 | ['LevelTable'] |   11      |
+|   12 | ['LevelTable'] |   12      |
+|   13 | ['LevelTable'] |   13      |
+|   14 | ['LevelTable'] |   14      |
+|   15 | ['LevelTable'] |   15      |
+|   16 | ['LevelTable'] |   16      |
+|   17 | ['LevelTable'] |   17      |
+|   18 | ['LevelTable'] |   18      |
+|   19 | ['LevelTable'] |   19      |
+|   20 | ['LevelTable'] |    20     |  
 
 ## Class Features
+
 
 The following are class features of the barbarian. 
 
@@ -192,8 +210,8 @@ At 20th level, the barbarian becomes nearly unkillable. The barbarian gains DR 5
 | ------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tribal Bond   | Ex   | The barbarian becomes a strong leading figure and learns to inspire his allies with his courage. While raging, all allies within 30 feet of the barbarian (excluding the barbarian himself) gain a +1 morale bonus on attack and damage rolls. At 10th level and every 5 levels thereafter this morale bonus improves by an additional 1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Death Bond    | Ex   | The barbarian becomes more powerful the more danger he is in and the closer to death he becomes. When the barbarian is reduced below half health while raging he may activate this ability as a free action, even if it is not his turn. While active this ability grants the barbarian an additional +1 bonus to hit and +2 bonus to damage rolls; but he no longer gains his usual temporary hit points per round when raging. When the barbarian is reduced below one quarter his maximum health this bonus improves to +2 bonus to hit and +4 bonus to damage rolls If the barbarian is reduced to 0 hit points or lower this bonus improves to +3 bonus to hit and +6 bonus to damage rolls as long as the barbarian would be capable of acting while at 0 or lower. At 10th level the barbarian may act as normal for 1 round as if he wasn’t at 0 hit points or lower, plus an additional round every 5 levels thereafter. This means the barbarian is not disabled by the effect nor does he take damage for performing actions while in this state; this does not allow the barbarian to act if killed.                                                                                                                                                |
-| Animal Aspect | Su   | The barbarian forms a bond with nature becoming more bestial in form. While raging the barbarian’s penalty to AC increases by an additional 2, but he gains a +1 bonus to natural armor (or increases his existing bonus to natural armor by 1). In addition he gains an additional +2 bonus to Strength and Dexterity while raging. At 10th level and every 5 levels thereafter this natural armor improves by an additional 1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Mounted Fury  | Ex   | The barbarian gains the service of a mount. It gains a companion as described on the companion page treating your levels in barbarian -3 as your spell prowess bonus to determine the progression of this companion (and stacks with spell prowess bonus gained from other sources). The animal companion gained this way must select the quadruped or serpentine base form. It gains the animal type as its companion type. In addition the animal companion begins with the Altered Size (Large Size) and Mount companion talents. The companion gains these types and talents even if the barbarian does not meet the prerequisites.<br><br>While companions can take many forms a barbarian’s animal companion should usually have a form similar to that of a beast (wolf, tiger, boar, horse, etc..) though the GM may allow for other creatures. If a barbarian releases her companion from service or her animal companion perishes, she may gain a new one by performing a ceremony requiring 24 uninterrupted hours of prayer in the environment where the new companion typically lives. This is treated similarly to the ranger's animal companion class feature when determining what classes and sources this companion may receive talents from. |
+| Animal Aspect | Su   | The barbarian forms a bond with nature becoming more bestial in form. While raging the barbarian’s penalty to AC increases by an additional 2, but he gains a +1 bonus to natural armor (or increases his existing bonus to natural armor by 1). In addition he gains an additional +2 bonus to Strength and Dexterity while raging. At 10th level and every 5 levels thereafter this natural armor improves by an additional 1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 
 
