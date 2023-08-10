@@ -8,7 +8,7 @@ title: 'lol martial'
 share: true
 ---
 ## Class Details:
-
+  
 Hit Die: d12
 Type: Martial
 Skill Ranks Per Level: 4 + Int modifier
