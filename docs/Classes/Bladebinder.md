@@ -59,7 +59,8 @@ At 1st level, the blade binder gains access to a specialization that furthers hi
 
 For a complete listing of binder specializations, see List - Binder Specializations.
 
-#### Summon Weapon (Su)  
+#### Summon Weapon
+(Su)  
 
 At 1st level, the blade binder learns to summon a weapon through the combination of his own power and the powers of creation itself. This ability requires a standard action and 1 stamina, summoning the weapon directly into the hands of the blade binder. The summoned weapon must be one the blade binder is proficient with and appropriately sized for him; the shape, size, and type of weapon it will be is chosen at the time of summoning. Once summoned, the blade lasts indefinitely or until the blade leaves his possession for longer than 1 round. Weapons summoned with this ability are summoned with a +1 enhancement bonus.
 
