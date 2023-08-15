@@ -22,10 +22,19 @@ strength_rating: 0
 **Keywords**: Light, Hammer, Metal
 
 
+**Cost:** 6gp **Weight:** 4lb<br>**Damage:** 1d6 **Critical:** 20/x3 **Type:** B<br>**Category:** Light **Proficiency:** Simple<br>**Special:** Strong<br>**Keywords:** Light, Hammer, Metal<br>
 
 
-**Cost:** 6gp **Weight:** 4lb<br>**Damage:** 1d6 **Critical:** 20/x3 **Type:** B<br>**Category:** Light **Proficiency:** Simple<br>**Special:** Strong<br>**Keywords:** Light, Hammer, Metal
+| Name           | Cost | Dmg | Crit  | Range | Type | Special | Keywords             |
+| -------------- | ---- | --- | ----- | ----- | ---- | ------- | -------------------- |
+| [[Light Mace]] | 6gp  | 1d6 | 20/x3 | \-    | B    | Strong  | Light, Hammer, Metal |
 
+
+| Cost | Dmg | Crit  | Range | Type | Special | Keywords             |
+| ---- | --- | ----- | ----- | ---- | ------- | -------------------- |
+| 6gp  | 1d6 | 20/x3 | \-    | B    | Strong  | Light, Hammer, Metal |
 
 
 A weapon consisting of a metal head attached to a wooden or metal shaft.
+
+<bold><span><p>Does this push to the site?:  </p></span></bold><input><button><span><p>Calculate</p></span></button>
