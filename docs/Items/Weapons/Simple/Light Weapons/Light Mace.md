@@ -38,3 +38,7 @@ strength_rating: 0
 A weapon consisting of a metal head attached to a wooden or metal shaft.
 
 <bold><span><p>Does this push to the site?:  </p></span></bold><input><button><span><p>Calculate</p></span></button>
+
+
+
+<table> <tr> <th>**Cost:**</th> <th> 6gp</th>  <tr> <th> **Weight:** </th> <th>4lb</th> <tr> <th> **Damage:** </th> <th>1d6</th> </table>
