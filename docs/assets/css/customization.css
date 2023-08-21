@@ -8,7 +8,9 @@ DONT FORGET TO EDIT THE URL
 
 table {
  line-height: 1.0;
- padding: 5px;
+}
+th, td {
+  padding: 5px;
 }
 
 .md-typeset details.wiki,
