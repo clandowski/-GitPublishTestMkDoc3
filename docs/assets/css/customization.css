@@ -23,6 +23,10 @@ DONT FORGET TO EDIT THE URL
     mask-image: var(--md-admonition-icon--grid);
 }
 
+.md-typeset {
+    line-height: .4;
+}
+
 .md-grid {
     max-width: 101rem;
 }
