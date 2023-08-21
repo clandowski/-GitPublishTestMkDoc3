@@ -6,6 +6,10 @@ DONT FORGET TO EDIT THE URL
 }
 */
 
+.md-typeset {
+ line-height:0.4;
+}
+
 .md-typeset details.wiki,
 .md-typeset .admonition.wiki {
     border-color: transparent;
@@ -21,10 +25,6 @@ DONT FORGET TO EDIT THE URL
     background-color: transparent;
     -webkit-mask-image: var(--md-admonition-icon--grid);
     mask-image: var(--md-admonition-icon--grid);
-}
-
-.md-typeset {
-    line-height: .4;
 }
 
 .md-grid {
