@@ -7,13 +7,14 @@ DONT FORGET TO EDIT THE URL
 */
 
 .md-typeset {
- line-height:0.4;
+ line-height: 0.4;
 }
 
 .md-typeset details.wiki,
 .md-typeset .admonition.wiki {
     border-color: transparent;
     background-color: transparent;
+    line-height: 0.4;
 }
 
 .md-typeset .wiki>.admonition-title,
