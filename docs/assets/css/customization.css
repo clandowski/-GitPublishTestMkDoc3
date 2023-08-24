@@ -10,6 +10,10 @@ table {
  line-height: 1.0;
 }
 
+th {
+  border: .05rem solid var(--md-typeset-table-color);
+}
+
 .md-typeset details.wiki,
 .md-typeset .admonition.wiki {
     border-color: transparent;
