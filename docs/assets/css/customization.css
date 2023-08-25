@@ -10,7 +10,7 @@ table {
  line-height: 1.0;
 }
 
-th {
+.vert th {
   border: .05rem solid var(--md-typeset-table-color);
 }
 
