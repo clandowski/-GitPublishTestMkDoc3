@@ -13,7 +13,6 @@ tags: ['Weapons','Light','Simple-Weapon']
 keywords: Light, Blade, Metal
 shield_bonus: 0
 strength_rating: 0
-hide: true
 ---
 **Cost**: 4gp **Weight**: 1lb
 **Damage**: 1d6 **Critical**: 20/x3 **Type**: P
@@ -22,4 +21,4 @@ hide: true
 **Special**: \-
 **Keywords**: Light, Blade, Metal
 
-A blade attached to a horizontal handle projecting out from the fist when held favoring powerful jabs.
+A blade attached to a horizontal handle projecting out from the fist when held favoring powerful jabs.  fdsa
