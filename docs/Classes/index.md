@@ -14,16 +14,16 @@ share: true
 
 
 
-| Class                                                 | HitDie | BAB  | Type    |
-| ----------------------------------------------------- | ------ | ---- | ------- |
-| [[Classes/Martial/Class/\|Class]]                     | d4     | 0    | Martial |
-| [[Classes/Martial/Untitled/\|Untitled]]               | d4     | 0    | Martial |
-| [[Classes/Martial/TestClass2/\|TestClass2]]           | d4     | 0    | Martial |
-| [[Classes/Martial/Class2TheSequel/\|Class2TheSequel]] | d4     | 0    | Martial |
-| [[Classes/None/TestClass/\|TestClass]]                | d0     | \-   | None    |
-| [[Classes/Martial/Rogue/\|Rogue]]                     | d10    | 0.75 | Martial |
-| [[Classes/Martial/Bladebinder/\|Bladebinder]]         | d12    | \-   | Martial |
-| [[Classes/Martial/Barbarian/\|Barbarian]]             | d12    | 1    | Martial |
+| Class                                                 | link(file.link, file.name)                                    | HitDie | BAB  | Type    |
+| ----------------------------------------------------- | ------------------------------------------------------------- | ------ | ---- | ------- |
+| [[Classes/Martial/Class/\|Class]]                     | [[Templater/Templates/Class.md\|Class]]                       | d4     | 0    | Martial |
+| [[Classes/Martial/Untitled/\|Untitled]]               | [[docs/Classes/Untitled/Untitled.md\|Untitled]]               | d4     | 0    | Martial |
+| [[Classes/Martial/TestClass2/\|TestClass2]]           | [[docs/Classes/Untitled/TestClass2.md\|TestClass2]]           | d4     | 0    | Martial |
+| [[Classes/Martial/Class2TheSequel/\|Class2TheSequel]] | [[docs/Classes/Untitled/Class2TheSequel.md\|Class2TheSequel]] | d4     | 0    | Martial |
+| [[Classes/None/TestClass/\|TestClass]]                | [[docs/Classes/TestClass.md\|TestClass]]                      | d0     | \-   | None    |
+| [[Classes/Martial/Rogue/\|Rogue]]                     | [[docs/Classes/Rogue/Rogue.md\|Rogue]]                        | d10    | 0.75 | Martial |
+| [[Classes/Martial/Bladebinder/\|Bladebinder]]         | [[docs/Classes/Bladebinder.md\|Bladebinder]]                  | d12    | \-   | Martial |
+| [[Classes/Martial/Barbarian/\|Barbarian]]             | [[docs/Classes/Barbarian/Barbarian.md\|Barbarian]]            | d12    | 1    | Martial |
 
 
 
