@@ -14,16 +14,16 @@ share: true
 
 
 
-| Class                                | HitDie | BAB  | Type    |
-| ------------------------------------ | ------ | ---- | ------- |
-| [[Classes/Martial/Class/]]           | d4     | 0    | Martial |
-| [[Classes/Martial/Untitled/]]        | d4     | 0    | Martial |
-| [[Classes/Martial/TestClass2/]]      | d4     | 0    | Martial |
-| [[Classes/Martial/Class2TheSequel/]] | d4     | 0    | Martial |
-| [[Classes/None/TestClass/]]          | d0     | \-   | None    |
-| [[Classes/Martial/Rogue/]]           | d10    | 0.75 | Martial |
-| [[Classes/Martial/Bladebinder/]]     | d12    | \-   | Martial |
-| [[Classes/Martial/Barbarian/]]       | d12    | 1    | Martial |
+| Class                                                 | HitDie | BAB  | Type    |
+| ----------------------------------------------------- | ------ | ---- | ------- |
+| [[Classes/Martial/Class/\|Class]]                     | d4     | 0    | Martial |
+| [[Classes/Martial/Untitled/\|Untitled]]               | d4     | 0    | Martial |
+| [[Classes/Martial/TestClass2/\|TestClass2]]           | d4     | 0    | Martial |
+| [[Classes/Martial/Class2TheSequel/\|Class2TheSequel]] | d4     | 0    | Martial |
+| [[Classes/None/TestClass/\|TestClass]]                | d0     | \-   | None    |
+| [[Classes/Martial/Rogue/\|Rogue]]                     | d10    | 0.75 | Martial |
+| [[Classes/Martial/Bladebinder/\|Bladebinder]]         | d12    | \-   | Martial |
+| [[Classes/Martial/Barbarian/\|Barbarian]]             | d12    | 1    | Martial |
 
 
 
