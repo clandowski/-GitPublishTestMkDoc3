@@ -21,6 +21,8 @@ strength_rating:
 **Special**: Strong
 **Keywords**: Light, Hammer, Metal
 
+oh no
+
 
 **Cost:** 6gp **Weight:** 4lb<br>**Damage:** 1d6 **Critical:** 20/x3 **Type:** B<br>**Range Increment:** asdf<br>**Category:** Light **Proficiency:** Simple<br>**Special:** Strong<br>**Keywords:** Light, Hammer, Metal<br>
 
