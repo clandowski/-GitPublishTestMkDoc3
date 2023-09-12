@@ -1,8 +1,9 @@
 ---
-tags: ['Class', 'Untitled']
-PageType: 'Class'
-HitDie: 'd4'
-Type: 'Martial'
+tags:
+  - Class
+PageType: Class
+HitDie: d4
+Type: Martial
 Skills: 0
 BAB: 0
 BDE: 0
