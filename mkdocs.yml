@@ -135,4 +135,4 @@ extra:
     strip_comments: true
     fix_heading: true
 extra_javascript:
-  - javascripts/tablefilter/tablefilter.js
+  - javascripts/datatables.js
