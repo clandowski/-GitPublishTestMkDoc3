@@ -8,18 +8,18 @@ const applyDatatables = () => {
             const doNotProcess = element.querySelectorAll('[colspan],[rowspan],.no-data-tables').length || element.classList.contains('no-data-tables');
 
             // Don't process anything with less than 40 rows
-            if (doNotProcess) return;
+            //if (doNotProcess) return;
 
             // Bootstrap style tables, with responsive table
             let dom = `<'row'<'col-sm-12 col-md-6'l><'col-sm-12 col-md-6'f>><'row table-responsive'<'col-sm-12'tr>><'row'<'col-sm-12 col-md-5'i><'col-sm-12 col-md-7 text-center'p>>`;
                 // How many items per page
-            let pageLength = 25;
+            let pageLength = 100;
             // How to order our pages
             let order = [[0, 'asc']];
 
             // If we have less than 40 rows, we don't need pagination, but table will still be sortable
-            if (rows < 40) {
-                pageLength = 40;
+            if (rows < 100) {
+                pageLength = 100;
                 dom = `<'row'<'col-sm-12 col-md-6'><'col-sm-12 col-md-6'>><'row table-responsive'<'col-sm-12'tr>><'row'<'col-sm-12 col-md-5'><'col-sm-12 col-md-7 text-center'>>`
                 order = [];
             }
