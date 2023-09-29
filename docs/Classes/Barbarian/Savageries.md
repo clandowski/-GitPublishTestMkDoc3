@@ -37,12 +37,12 @@ share: true
 | Storm of Souls (Su)             | Vengeful Spirits savagery, Barbarian 17th          | The barbarian learns to temporarily disperse the souls that cling to him, sending their malevolent energies out. By spending 1 stamina as a full-round action all foes within 30 feet of the barbarian are subject to a fortitude save attack (against 1d20 + ½ your MPB + his Charisma modifier). Successful save attack deals 1d6 points of dark energy damage per two levels of barbarian he possesses and are shaken as if the barbarian had successfully demoralize them with an intimidate check. A failed save attack reduces the damage by half. The barbarian may spend 2 fury to reduce the action required for this ability to a standard action,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 <pre class="dataview dataview-error">Evaluation Error: ReferenceError: TableFilter is not defined
     at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:1:48)
-    at DataviewInlineApi.eval (plugin:dataview:18404:16)
-    at evalInContext (plugin:dataview:18405:7)
-    at asyncEvalInContext (plugin:dataview:18415:32)
-    at DataviewJSRenderer.render (plugin:dataview:18436:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18020:14)
-    at e.load (app://obsidian.md/app.js:1:720327)
-    at DataviewApi.executeJs (plugin:dataview:18954:18)
+    at DataviewInlineApi.eval (plugin:dataview:18618:16)
+    at evalInContext (plugin:dataview:18619:7)
+    at asyncEvalInContext (plugin:dataview:18629:32)
+    at DataviewJSRenderer.render (plugin:dataview:18650:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18240:14)
+    at e.load (app://obsidian.md/app.js:1:715707)
+    at DataviewApi.executeJs (plugin:dataview:19171:18)
     at eval (plugin:obsidian-mkdocs-publisher:28:2026)
     at Generator.next (&lt;anonymous&gt;)</pre>
