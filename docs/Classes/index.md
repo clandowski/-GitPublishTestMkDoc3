@@ -1,29 +1,27 @@
 ---
 share: true
+title: Classes
 ---
-| Class                                                         | HitDie | Type    | Skills |
-| ------------------------------------------------------------- | ------ | ------- | ------ |
-| [[Templater/Templates/Class.md\|Class]]                       | d4     | Martial | 0      |
-| [[docs/Classes/Untitled/TestClass2.md\|TestClass2]]           | d4     | Martial | 0      |
-| [[docs/Classes/Untitled/Class2TheSequel.md\|Class2TheSequel]] | d4     | Martial | 4      |
-| [[docs/Classes/TestClass.md\|TestClass]]                      | d0     | None    | 0      |
-| [[docs/Classes/Rogue/Rogue.md\|Rogue]]                        | d10    | Martial | \-     |
-| [[docs/Classes/Bladebinder.md\|Bladebinder]]                  | d12    | Martial | 4      |
-| [[docs/Classes/Barbarian/Barbarian.md\|Barbarian]]            | d12    | Martial | 2      |
+This page links to the various classes in the NicheD20 system:
 
+| Class                                               | HitDie | BAB  | BCB  | Type    |
+| --------------------------------------------------- | ------ | ---- | ---- | ------- |
+| [Battlemage](/Classes/Hybrid/Battlemage)            | d12    | 1    | 0.5  | Hybrid  |
+| [Grim Knight](/Classes/Hybrid/Grim Knight)          | d12    | 1    | 0.5  | Hybrid  |
+| [Magus](/Classes/Hybrid/Magus)                      | d10    | 1    | 0.75 | Hybrid  |
+| [Druid](/Classes/Magic/Druid)                       | d10    | 0.75 | 0.75 | Magic   |
+| [Sorcerer](/Classes/Magic/Sorcerer)                 | d8     | 0.5  | 0.5  | Magic   |
+| [Wizard](/Classes/Magic/Wizard)                     | d8     | 0.5  | 1    | Magic   |
+| [Barbarian](/Classes/Martial/Barbarian)             | d12    | 1    | \-   | Martial |
+| [Barbarian](/Classes/Martial/Barbarian)             | d12    | 1    | \-   | Martial |
+| [Blade Binder](/Classes/Martial/Blade Binder)       | d12    | 1    | \-   | Martial |
+| [Bladebinder](/Classes/Martial/Bladebinder)         | d12    | \-   | \-   | Martial |
+| [Class](/Classes/Martial/Class)                     | d4     | 0    | \-   | Martial |
+| [Class2TheSequel](/Classes/Martial/Class2TheSequel) | d4     | 0    | \-   | Martial |
+| [Fighter](/Classes/Martial/Fighter)                 | d12    | 1    | \-   | Martial |
+| [Ranger](/Classes/Martial/Ranger)                   | d10    | 0.75 | \-   | Martial |
+| [Rogue](/Classes/Martial/Rogue)                     | d10    | 0.75 | \-   | Martial |
+| [Rogue](/Classes/Martial/Rogue)                     | d10    | 0.75 | \-   | Martial |
+| [TestClass2](/Classes/Martial/TestClass2)           | d4     | 0    | \-   | Martial |
+| [TestClass](/Classes/None/TestClass)                | d0     | \-   | \-   | None    |
 
-
-| Class                                                 | link(file.link, file.name)                                    | HitDie | BAB  | Type    |
-| ----------------------------------------------------- | ------------------------------------------------------------- | ------ | ---- | ------- |
-| [[Classes/Martial/Class/\|Class]]                     | [[Templater/Templates/Class.md\|Class]]                       | d4     | 0    | Martial |
-| [[Classes/Martial/TestClass2/\|TestClass2]]           | [[docs/Classes/Untitled/TestClass2.md\|TestClass2]]           | d4     | 0    | Martial |
-| [[Classes/Martial/Class2TheSequel/\|Class2TheSequel]] | [[docs/Classes/Untitled/Class2TheSequel.md\|Class2TheSequel]] | d4     | 0    | Martial |
-| [[Classes/None/TestClass/\|TestClass]]                | [[docs/Classes/TestClass.md\|TestClass]]                      | d0     | \-   | None    |
-| [[Classes/Martial/Rogue/\|Rogue]]                     | [[docs/Classes/Rogue/Rogue.md\|Rogue]]                        | d10    | 0.75 | Martial |
-| [[Classes/Martial/Bladebinder/\|Bladebinder]]         | [[docs/Classes/Bladebinder.md\|Bladebinder]]                  | d12    | \-   | Martial |
-| [[Classes/Martial/Barbarian/\|Barbarian]]             | [[docs/Classes/Barbarian/Barbarian.md\|Barbarian]]            | d12    | 1    | Martial |
-
-
-
-  yolo
-  Testing on 6.7.1
