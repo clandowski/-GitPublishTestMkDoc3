@@ -1,3 +1,3 @@
 nav:
     - Rules
-    - ... | !(tags.md)
+    - ... | regex=^(?!tags.md|index.md$)
